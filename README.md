@@ -7,19 +7,19 @@
 
 - Gulp.js
 
-## How to contributing
+## Como contribuir?
 
-### 1. Read the Guidelines
+### 1. Leia o guia de contribuição
 
-See the [**Contributing guide**](https://github.com/guru-al/gurual_frontend/blob/master/CONTRIBUTING.md).
+Veja o [**Guia de contribuição**](https://github.com/guru-al/gurual_frontend/blob/master/CONTRIBUTING.md).
 
-### 2. Install dependencies
+### 2. Instale as dependiencias do projeto
 
-First, ensure that you have installed on your machine:
+Primeiro instale as aplicações necessárias na sua máquina:
 
 - [**Node.js**](href='http://nodejs.org/')
 
-### 3. Make a PR ;-)
-Wait for the [core team](https://github.com/orgs/guru-al/members) to evaluate and accept your *pull request*. All contributions are welcome. :ok_hand:
+### 3. Faça um Pull Request ;-)
+Espere pela aprovação do [core team](https://github.com/orgs/guru-al/members) após verificação do seu *pull request*. Toda contribuição é bem vinda. :ok_hand:
 
 > Made with ♥ by Brazilians [crazy guys](https://github.com/orgs/guru-al/members).
